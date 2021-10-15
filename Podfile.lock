@@ -1,0 +1,16 @@
+PODS:
+  - ALProgressRing (1.1.0)
+
+DEPENDENCIES:
+  - ALProgressRing
+
+SPEC REPOS:
+  trunk:
+    - ALProgressRing
+
+SPEC CHECKSUMS:
+  ALProgressRing: 35eb82498ff29fd415e3e4e0ee77cd1cdc6f3a45
+
+PODFILE CHECKSUM: 32cd9b4f3dbce4486f24dad5e3d07d84e0b8360a
+
+COCOAPODS: 1.8.4
