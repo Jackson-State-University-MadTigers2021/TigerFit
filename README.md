@@ -1,7 +1,7 @@
 # TigerFit
 ## Notes From Kyla:
   Maybe add a new tab so the student can upload their own meals and workout. For now, the app is complete and is functional, yet basic.
-  No new changes on my end, just testing the application on my mobile phone and it runs smoothly.
+  No new changes on my end, just testing the application on my mobile phone and it runs smoothly. App is working fine, no changes were needed
 ## Notes from Shahash Kandel:
   As a Database leader, I put effort on creating entities, attributes and establishing the relationship between them. I came up with objectives to maintain database objects in coordination with my teammates. The entities were Customer, Meal, and Exercise. There were several attributes for each entity, and there were different relationships between entities. I worked with database software to find paths for storing, organizing, and managing data. I did troubleshooting whenever I had to, kept the databases up to date, and managed database access. I tested the app and ran it on my phone to check whether it was working well or not.
 ## Notes From Opeoluwa Williams:
